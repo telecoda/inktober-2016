@@ -44,7 +44,7 @@ Most of the drawings where drawn on my commute to work on the train.  They took 
 I decided I would also produce digital versions of the drawings and maybe even some coloured in versions.
 
 ## Steps involved
-These sets are documented mainly for my benefit so I can easily repeat the process.
+These steps are documented mainly for my benefit so I can easily repeat the process.
 
 * Sketch with pencil / inkpen
 * Scan image
